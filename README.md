@@ -58,7 +58,3 @@ Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ ima
 ```bash
 pip install image-processing-test-hg
 ```
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
